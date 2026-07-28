@@ -44,9 +44,9 @@ A script-driven Ubuntu 24.04 lab for repeatable Samba AD DS provisioning.
 - **IT Infrastructure Analyst — Electrolux Group:** enterprise and factory infrastructure, networking, virtualization, workplace systems, OT segmentation, security, and cross-functional infrastructure delivery
 - **IT Infrastructure and Systems Specialist — Aegis:** Windows Server, Active Directory, VMware and Proxmox, Cisco networking, storage, backup, recovery, and database infrastructure support
 
-## Credentials
+## Training and credentials
 
-- **Microsoft Azure:** AZ-104 · AZ-500 · AZ-700 · AZ-900
+- **Microsoft Azure:** hands-on training aligned with AZ-900, AZ-104, AZ-500, and AZ-700; certification exams planned
 - **Infrastructure and networking:** MCSA · CCNA · VMCE · NSE 4
 - **Education:** BSc in Management Information Systems
 
