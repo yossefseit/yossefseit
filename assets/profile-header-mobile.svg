@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
+  <title id="title">Yossef Mohammed Ali — Cloud Infrastructure and DevOps Engineer</title>
+  <desc id="desc">Compact original gold YM solar mark on deep navy with cyan infrastructure connections. Azure, AWS, and automation.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#eef3f6" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="surface" x2="1" y2="1">
+      <stop stop-color="#09111e"/>
+      <stop offset="1" stop-color="#101d2d"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="278" rx="20" fill="url(#surface)" stroke="#344356"/>
+  <rect x="1" y="1" width="638" height="278" rx="20" fill="url(#grid)"/>
+  <g transform="translate(74 111) scale(.76)" fill="none" stroke="#d7b572">
+    <circle r="59" stroke-opacity=".18"/>
+    <path d="M-36-47A59 59 0 0 1 47 36M36 47A59 59 0 0 1-47-36" stroke-width="2"/>
+    <path d="M-65 0H-59M59 0H65M0-65V-59M0 59V65" stroke-width="2"/>
+    <path d="M-29-22-10-3 8-22M-10-3V27M0 27V-14L18 4 36-14V27" stroke-width="6" stroke-linejoin="miter"/>
+  </g>
+  <text x="139" y="83" fill="#eef3f6" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1">Yossef Mohammed Ali</text>
+  <text x="140" y="123" fill="#eef3f6" font-family="Arial, Helvetica, sans-serif" font-size="22">Cloud Infrastructure &amp; DevOps Engineer</text>
+  <text x="140" y="161" fill="#75dbed" font-family="ui-monospace, 'Courier New', monospace" font-size="16" letter-spacing="1.5">AZURE / AWS / AUTOMATION</text>
+  <g fill="none" stroke="#75dbed" stroke-width="1.5">
+    <path d="M36 224H216L248 196H364L392 224H604" stroke-opacity=".42"/>
+    <circle cx="216" cy="224" r="4" fill="#09111e"/>
+    <circle cx="364" cy="196" r="4" fill="#09111e"/>
+    <circle cx="504" cy="224" r="4" fill="#09111e"/>
+  </g>
+  <path d="M36 252H604" fill="none" stroke="#344356"/>
+  <circle cx="36" cy="252" r="3" fill="#d7b572"/>
+  <circle cx="604" cy="252" r="3" fill="#d7b572"/>
+</svg>

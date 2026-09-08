@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Yossef Mohammed Ali — Cloud Infrastructure and DevOps Engineer</title>
+  <desc id="desc">An original angular gold YM monogram in a partial solar ring, set on deep navy with cyan topology lines. Azure, AWS, and automation.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#eef3f6" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#09111e"/><stop offset="1" stop-color="#101d2d"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="278" rx="20" fill="url(#surface)" stroke="#344356"/>
+  <rect x="1" y="1" width="1198" height="278" rx="20" fill="url(#grid)"/>
+  <path d="M0 229H1200" fill="none" stroke="#344356"/>
+  <g fill="none" stroke="#75dbed" stroke-width="1.5">
+    <path d="M855 63H918L961 106H1018L1050 138H1184" stroke-opacity=".3"/>
+    <path d="M882 177H952L994 135H1068L1121 82H1200" stroke-opacity=".35"/>
+    <path d="M999 206H1080L1120 166H1200" stroke-opacity=".3"/>
+    <circle cx="918" cy="63" r="4" fill="#09111e"/><circle cx="1018" cy="106" r="4" fill="#09111e"/>
+    <circle cx="1121" cy="82" r="4" fill="#09111e"/><circle cx="1080" cy="206" r="4" fill="#09111e"/>
+  </g>
+  <g transform="translate(88 120)">
+    <circle r="59" fill="none" stroke="#d7b572" stroke-opacity=".18"/>
+    <path d="M-36-47A59 59 0 0 1 47 36M36 47A59 59 0 0 1-47-36" fill="none" stroke="#d7b572" stroke-width="2"/>
+    <path d="M-65 0H-59M59 0H65M0-65V-59M0 59V65" stroke="#d7b572" stroke-width="2"/>
+    <path d="M-29-22-10-3 8-22M-10-3V27M0 27V-14L18 4 36-14V27" fill="none" stroke="#d7b572" stroke-width="6" stroke-linejoin="miter"/>
+  </g>
+  <text x="188" y="98" fill="#eef3f6" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5">Yossef Mohammed Ali</text>
+  <text x="190" y="140" fill="#eef3f6" font-family="Arial, Helvetica, sans-serif" font-size="25">Cloud Infrastructure &amp; DevOps Engineer</text>
+  <text x="190" y="181" fill="#75dbed" font-family="ui-monospace, 'Courier New', monospace" font-size="17" letter-spacing="2">AZURE / AWS / AUTOMATION</text>
+  <text x="37" y="260" fill="#b0bfcd" font-family="ui-monospace, 'Courier New', monospace" font-size="14" letter-spacing="1">SYSTEMS THINKING. PRACTICAL ENGINEERING.</text>
+  <text x="1158" y="260" fill="#d7b572" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" letter-spacing="1">CAIRO, EGYPT</text>
+</svg>
