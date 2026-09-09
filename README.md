@@ -16,7 +16,7 @@ A React and TypeScript application that makes Egyptian salary calculations easie
 
 `React` `TypeScript` `GitHub Pages` `GitHub Actions`
 
-**57 tests passing; deployed to GitHub Pages.** Deployment and the live salary calculation were verified on **9 Sep 2026**. The former Azure App Service deployment remains available as dated historical evidence from **15 Aug 2026**.
+**80 tests passing; deployed to GitHub Pages.** Deployment and the live salary calculation were verified on **9 Sep 2026**. The browser obtains a dated USD/EGP reference rate directly, without sending salary values to the provider. The former Azure App Service deployment remains available as dated historical evidence from **15 Aug 2026**.
 
 [Case study][salary-case] · [Live calculator][salary-demo] · [Code][salary-repo] · [CI workflow][salary-ci] · [Pages deployment][salary-pages] · [Historical Azure deployment][salary-deployment]
 
@@ -93,6 +93,6 @@ Academy programs describe training, not passed vendor certification exams. Full 
 [salary-ci]: https://github.com/yossefseit/egypt-salary-calculator/actions/workflows/ci.yml
 [salary-deployment]: https://github.com/yossefseit/egypt-salary-calculator/actions/runs/31909528455
 [salary-demo]: https://yossefseit.github.io/egypt-salary-calculator/
-[salary-pages]: https://github.com/yossefseit/egypt-salary-calculator/actions/runs/34370072295
+[salary-pages]: https://github.com/yossefseit/egypt-salary-calculator/actions/runs/34402180941
 [salary-repo]: https://github.com/yossefseit/egypt-salary-calculator
 [samba-repo]: https://github.com/yossefseit/samba-ad-dc-lab
