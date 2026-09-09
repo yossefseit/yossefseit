@@ -1,10 +1,10 @@
-<a href="https://gentle-smoke-06d712d0f.7.azurestaticapps.net/"><picture><source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg"><img src="assets/profile-header.svg" alt="Yossef Mohammed Ali. Cloud Infrastructure and DevOps Engineer. An original gold YM solar mark with cyan infrastructure connections." width="1200"></picture></a>
+<a href="https://yossefseit.github.io/"><picture><source media="(max-width: 480px)" srcset="assets/profile-header-mobile.svg"><img src="assets/profile-header.svg" alt="Yossef Mohammed Ali. Cloud Infrastructure and DevOps Engineer. An original gold YM solar mark with cyan infrastructure connections." width="1200"></picture></a>
 
 # Yossef Mohammed Ali
 
 **Cloud Infrastructure & DevOps Engineer** · Cairo, Egypt · Open to remote & relocation
 
-I support enterprise and manufacturing infrastructure across systems, identity, networking, virtualization, backup, and recovery. My personal projects bring that operations foundation into Azure application delivery and infrastructure automation, while I build AWS, Terraform, and Kubernetes skills through ongoing coursework and labs.
+I support enterprise and manufacturing infrastructure across systems, identity, networking, virtualization, backup, and recovery. My personal projects bring that operations foundation into GitHub Pages application delivery and Azure infrastructure automation, while I build AWS, Terraform, and Kubernetes skills through ongoing coursework and labs.
 
 **[Portfolio][portfolio] · [Download CV][cv] · [LinkedIn][linkedin] · [Contact][contact]**
 
@@ -12,13 +12,13 @@ I support enterprise and manufacturing infrastructure across systems, identity, 
 
 ### 01 / [Egypt Salary Calculator][salary-repo]
 
-A React and TypeScript application that makes Egyptian salary calculations easier to inspect, paired with tested delivery to Azure App Service for Linux through GitHub Actions, OIDC, and an Azure managed identity.
+A React and TypeScript application that makes Egyptian salary calculations easier to inspect, with a tested static build delivered through GitHub Actions to GitHub Pages.
 
-`React` `TypeScript` `Azure App Service` `GitHub Actions` `OIDC`
+`React` `TypeScript` `GitHub Pages` `GitHub Actions`
 
-**57 tests passing; deployment recorded.** The successful deployment is dated **15 Aug 2026**; current demo availability is unverified. Calculation and interface tests were rerun locally on **7 Sep 2026**.
+**57 tests passing; deployed to GitHub Pages.** Deployment and the live salary calculation were verified on **9 Sep 2026**. The former Azure App Service deployment remains available as dated historical evidence from **15 Aug 2026**.
 
-[Case study][salary-case] · [Code][salary-repo] · [CI workflow][salary-ci] · [Deployment evidence][salary-deployment]
+[Case study][salary-case] · [Live calculator][salary-demo] · [Code][salary-repo] · [CI workflow][salary-ci] · [Pages deployment][salary-pages] · [Historical Azure deployment][salary-deployment]
 
 ### 02 / [Secure Azure Hub-and-Spoke Lab][hub-repo]
 
@@ -40,7 +40,7 @@ Subscription-scoped Bicep for audit-first Azure Policy, RBAC, budgets, and resou
 
 [Case study][governance-case] · [Code][governance-repo] · [Pipeline evidence][governance-pipeline]
 
-**More work:** [Azure Static Web Apps Portfolio][portfolio-repo] — static delivery and GitHub Actions. [Samba AD DC Lab][samba-repo] — **Lab: CI validated; runtime validation pending.**
+**More work:** [GitHub Pages Portfolio][portfolio-repo] — static delivery and GitHub Actions. [Samba AD DC Lab][samba-repo] — **Lab: CI validated; runtime validation pending.**
 
 ## Engineering toolkit
 
@@ -77,20 +77,22 @@ Academy programs describe training, not passed vendor certification exams. Full 
 **[Explore the portfolio][portfolio] · [Read the infrastructure notes][infrastructure] · [Get in touch][contact]**
 
 [contact]: mailto:yossefali67@gmail.com
-[cv]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/assets/Yossef_Mohammed_Ali_CV.pdf
-[experience]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/experience/
-[governance-case]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/projects/azure-governance-automation/
+[cv]: https://yossefseit.github.io/Yossef_Mohammed_Ali_CV.pdf
+[experience]: https://yossefseit.github.io/experience/
+[governance-case]: https://yossefseit.github.io/projects/azure-governance-automation/
 [governance-pipeline]: https://github.com/yossefseit/azure-governance-automation/actions/workflows/ci.yml
 [governance-repo]: https://github.com/yossefseit/azure-governance-automation
-[hub-case]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/projects/azure-secure-hub-spoke/
+[hub-case]: https://yossefseit.github.io/projects/azure-secure-hub-spoke/
 [hub-pipeline]: https://github.com/yossefseit/azure-secure-hub-spoke/actions/workflows/validate.yml
 [hub-repo]: https://github.com/yossefseit/azure-secure-hub-spoke
-[infrastructure]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/infrastructure/
+[infrastructure]: https://yossefseit.github.io/infrastructure/
 [linkedin]: https://linkedin.com/in/yossef-ali
-[portfolio]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/
+[portfolio]: https://yossefseit.github.io/
 [portfolio-repo]: https://github.com/yossefseit/yossefseit.github.io
-[salary-case]: https://gentle-smoke-06d712d0f.7.azurestaticapps.net/projects/egypt-salary-calculator/
+[salary-case]: https://yossefseit.github.io/projects/egypt-salary-calculator/
 [salary-ci]: https://github.com/yossefseit/egypt-salary-calculator/actions/workflows/ci.yml
 [salary-deployment]: https://github.com/yossefseit/egypt-salary-calculator/actions/runs/31909528455
+[salary-demo]: https://yossefseit.github.io/egypt-salary-calculator/
+[salary-pages]: https://github.com/yossefseit/egypt-salary-calculator/actions/runs/34370072295
 [salary-repo]: https://github.com/yossefseit/egypt-salary-calculator
 [samba-repo]: https://github.com/yossefseit/samba-ad-dc-lab
